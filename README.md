@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PoddeCaro
 - 👀 I’m interested in mechanical engineering, robotics and CNC machinery
       But also in tech and programming 
-- 🌱 I’m currently learning Comau PDL2 and a bit of C#
+- 🌱 I’m currently learning Comau PDL2 and a bit of Python and a really small bit of C#
 - 😄 Pronouns: he/him
 
 <!---
